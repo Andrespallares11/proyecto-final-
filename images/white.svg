@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
+  <title>Composición abstracta de color blanco</title>
+  <desc>Composición geométrica que utiliza el color blanco.</desc>
+  <rect width="600" height="400" fill="#f5f5f5"/>
+  <circle cx="150" cy="200" r="95" fill="#111111" opacity=".88"/>
+  <rect x="265" y="85" width="170" height="170" rx="24" fill="#111111" opacity=".72" transform="rotate(18 350 170)"/>
+  <path d="M40 345 L300 120 L560 345 Z" fill="#111111" opacity=".42"/>
+</svg>
